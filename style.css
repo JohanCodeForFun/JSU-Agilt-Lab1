@@ -33,7 +33,12 @@ footer {
 	border-radius: 1rem;
 }
 
+footer {
+	padding: 0.5rem;
+}
+
 .div-spacing {
 	background-color: rgba(0, 0, 0, 0.0);
 	backdrop-filter: blur(0px);
+	height: 5vh;
 }
